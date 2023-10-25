@@ -1,4 +1,4 @@
-# font color="#82BAE7">Computer Programming</font>
+# <font color="#82BAE7">Computer Programming</font>
 A respository for the compilation of computer programming projects
 
 ---
