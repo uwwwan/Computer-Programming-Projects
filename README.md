@@ -1,4 +1,4 @@
-# ITE-260-Projects
+# Computer Programming
 A respository for the compilation of computer programming projects
 
 ---
